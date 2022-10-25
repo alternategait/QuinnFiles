@@ -16,4 +16,4 @@
 
 ### Quinn in the Fall
 
-<img alt="quinn in leaf" src="https://user-images.githubusercontent.com/102367926/197815407-c49714ac-d96e-4bfe-999f-139054d767d3.jpeg" height="250"
+<img alt="quinn in leaf" src="https://user-images.githubusercontent.com/102367926/197815407-c49714ac-d96e-4bfe-999f-139054d767d3.jpeg" height="250" />
