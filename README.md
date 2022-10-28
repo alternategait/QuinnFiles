@@ -17,3 +17,5 @@
 ### Quinn in the Fall
 
 <img alt="quinn in leaf" src="https://user-images.githubusercontent.com/102367926/197815407-c49714ac-d96e-4bfe-999f-139054d767d3.jpeg" height="250" />
+
+<img alt="Quinn wearing a coat" src="https://user-images.githubusercontent.com/102367926/198645668-f25ef59a-55e5-40c7-a90c-6e9dc039d313.jpg" height="250" />
